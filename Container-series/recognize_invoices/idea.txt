@@ -1,1 +1,0 @@
-pdf --> image --> cut out parts you want to ocr (cut it with x1y1x2y2) --> do ocr --> put all text (in a page, if you want to do multiple) into a .txt file
